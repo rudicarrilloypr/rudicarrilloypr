@@ -2,7 +2,7 @@
   <img src="./assets/rc-sd-logo.PNG" alt="Rudi Carrillo Logo" width="200"/>
 </p>
 
-# Hi!, I'm Rudi Carrillo 👋
+# Hi! I'm Rudi Carrillo 👋
 
 I'm a Software Developer based in Xalapa, Mexico. I have a passion for creating and developing unique and minimalistic front and back end projects.
 
