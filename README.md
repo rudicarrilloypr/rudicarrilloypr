@@ -29,4 +29,4 @@ I'm a Software Developer based in Xalapa, Mexico. I have a passion for creating 
 ## 📫 How to reach me:
 You can find all my contact information [here](https://lnk.bio/rudicarrillo_softdev).
 
-You can also reach me by [email](mailto:rudicarrilloypr@gmail.com).
+You can also reach me on [Gmail](mailto:rudicarrilloypr@gmail.com).
