@@ -17,7 +17,7 @@ I'm a Software Developer based in Xalapa, Mexico. I have a passion for creating 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rudicarrilloypr&show_icons=true&theme=radical)
 
-## Pinned Repositories
+## 📌 Pinned Repositories
 
 1. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List project built using webpack, JavaScript, HTML, and CSS.
 [Live Demo](https://rudicarrilloypr.github.io/todo-list/dist/)
