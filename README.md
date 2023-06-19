@@ -27,6 +27,6 @@ I'm a Software Developer based in Xalapa, Mexico. I have a passion for creating 
 [Live Demo](https://rudicarrilloypr.github.io/awesome-books-es6/)
 
 ## 📫 How to reach me:
-You can find all my contact information [here](https://lnk.bio/rudicarrillo_softdev).
+You can find all my contact and socials [here](https://lnk.bio/rudicarrillo_softdev).
 
 You can also reach me on [Gmail](mailto:rudicarrilloypr@gmail.com).
