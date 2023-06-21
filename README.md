@@ -1,4 +1,4 @@
-<p align="center">
+<p style="text-align:center;">
   <img src="./assets/rc-softdev-banner.PNG" alt="Rudi Carrillo Logo" width="100%"/>
 </p>
 
@@ -7,7 +7,7 @@
 I'm a Software Developer based in Xalapa, Mexico. I have a passion for creating and developing unique and minimalistic front and back end projects.
 
 <a href="https://bmc.link/rudicarrillo" target="_blank">
-  <img src="./assets/black-button-small.png" alt="Buy me a coffee" style="display: block; margin: 20px auto; width: 150px;">
+  <img src="./assets/black-button-small.png" alt="Buy me a coffee" style="display: block; margin: 20px auto; width: 120px;">
 </a>
     
 ## 🔧 Technologies & Tools
