@@ -57,6 +57,6 @@ I'm a Software Developer based in Xalapa, Mexico. I have a passion for creating 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
 
 ## 📫 How to reach me:
-You can find all my contact and socials [here](https://lnk.bio/rudicarrillo_softdev).
+🔻 [Rudi Carrillo Socials & Links](https://lnk.bio/rudicarrillo_softdev).
 
-You can also reach me on [Gmail](mailto:rudicarrilloypr@gmail.com).
+🔻 [Gmail](mailto:rudicarrilloypr@gmail.com)
