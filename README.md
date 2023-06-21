@@ -1,5 +1,5 @@
 <p style="text-align:center;">
-  <img src="./assets/rc-softdev-banner-doodles-soft.PNG" alt="Rudi Carrillo Logo" width="100%"/>
+  <img src="./assets/rc-softdev-banner.PNG" alt="Rudi Carrillo Logo" width="100%"/>
 </p>
 
 # Hi! I'm Rudi Carrillo 👋
