@@ -5,6 +5,7 @@
 # Hi! I'm Rudi Carrillo 👋
 
 My enthusiasm as a software developer lies in creating streamlined solutions for both front and back-end projects.
+
 Based in Xalapa, Mexico. 
 
 <a href="https://bmc.link/rudicarrillo" target="_blank">
