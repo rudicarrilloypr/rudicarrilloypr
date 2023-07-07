@@ -24,9 +24,11 @@ Based in Xalapa, Mexico.
 [Live Demo](https://rudicarrilloypr.github.io/todo-list/dist/)
 2. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): project to test the learned skills into a conference page first module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour.
 [Live Demo](https://rudicarrilloypr.github.io/capstone-module-1/main.html)
-3. [Leaderboard App](https://github.com/rudicarrilloypr/leaderboard-list): Leaderboard list app, using webpack and ES6 features, notably modules.
+3. [Pokemon App](https://github.com/rudicarrilloypr/kanban-capstone-js-module2/tree/main): Capstone web application that sends and recieve Data from the Pokemon API.
+[Live Demo](https://gleeful-kitsune-465a87.netlify.app/)
+4. [Leaderboard App](https://github.com/rudicarrilloypr/leaderboard-list): Leaderboard list app, using webpack and ES6 features, notably modules.
 [Live Demo](https://rudicarrilloypr.github.io/leaderboard-list/dist/)
-4. [Awesome Books](https://github.com/rudicarrilloypr/awesome-books-es6): This project is about building a basic website that allows users to add/remove books from a list.
+5. [Awesome Books](https://github.com/rudicarrilloypr/awesome-books-es6): This project is about building a basic website that allows users to add/remove books from a list.
 [Live Demo](https://rudicarrilloypr.github.io/awesome-books-es6/)
 
 ## 📈 GitHub Stats
