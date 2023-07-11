@@ -20,16 +20,17 @@ Based in Xalapa, Mexico.
 
 ## 📌 Pinned Repositories
 
-1. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List project built using webpack, JavaScript, HTML, and CSS.
+1. [Fortnite API new Cosmetics App](https://github.com/rudicarrilloypr/fortnite-api): webb app that recieve updated data from the official Fortnite API and shows the upcoming cosmetics coming to the game.
+[Live Demo](https://fortnite-api-new.netlify.app/)
+
+2. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List project built using webpack, JavaScript, HTML, and CSS.
 [Live Demo](https://rudicarrilloypr.github.io/todo-list/dist/)
-2. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): project to test the learned skills into a conference page first module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour.
+3. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): project to test the learned skills into a conference page first module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour.
 [Live Demo](https://rudicarrilloypr.github.io/capstone-module-1/main.html)
-3. [Pokemon App](https://github.com/rudicarrilloypr/kanban-capstone-js-module2/tree/main): Capstone web application that sends and recieve Data from the Pokemon API.
+4. [Pokemon App](https://github.com/rudicarrilloypr/kanban-capstone-js-module2/tree/main): Capstone web application that sends and recieve Data from the Pokemon API.
 [Live Demo](https://gleeful-kitsune-465a87.netlify.app/)
-4. [Leaderboard App](https://github.com/rudicarrilloypr/leaderboard-list): Leaderboard list app, using webpack and ES6 features, notably modules.
+5. [Leaderboard App](https://github.com/rudicarrilloypr/leaderboard-list): Leaderboard list app, using webpack and ES6 features, notably modules.
 [Live Demo](https://rudicarrilloypr.github.io/leaderboard-list/dist/)
-5. [Awesome Books](https://github.com/rudicarrilloypr/awesome-books-es6): This project is about building a basic website that allows users to add/remove books from a list.
-[Live Demo](https://rudicarrilloypr.github.io/awesome-books-es6/)
 
 ## 📈 GitHub Stats
 
