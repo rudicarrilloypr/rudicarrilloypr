@@ -17,6 +17,7 @@ Based in Xalapa, Mexico.
 <!--![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ## 📌 Pinned Repositories
 
@@ -27,7 +28,7 @@ Based in Xalapa, Mexico.
 [Live Demo](https://rudicarrilloypr.github.io/todo-list/dist/)
 3. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): project to test the learned skills into a conference page first module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour.
 [Live Demo](https://rudicarrilloypr.github.io/capstone-module-1/main.html)
-4. [Pokemon App](https://github.com/rudicarrilloypr/kanban-capstone-js-module2/tree/main): Capstone web application that sends and recieve Data from the Pokemon API.
+4. [Pokemon App](https://github.com/rudicarrilloypr/kanban-capstone-js-module2/tree/main): Capstone web application project to test the learned skills in Javascript that sends and recieve Data from the Pokemon API.
 [Live Demo](https://gleeful-kitsune-465a87.netlify.app/)
 5. [Leaderboard App](https://github.com/rudicarrilloypr/leaderboard-list): Leaderboard list app, using webpack and ES6 features, notably modules.
 [Live Demo](https://rudicarrilloypr.github.io/leaderboard-list/dist/)
@@ -52,7 +53,6 @@ Based in Xalapa, Mexico.
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
