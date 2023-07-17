@@ -21,7 +21,7 @@ Based in Xalapa, Mexico.
 
 ## 📌 Pinned Repositories
 
-1. [Fortnite API new Cosmetics App](https://github.com/rudicarrilloypr/fortnite-api): webb app that recieve updated data from the official Fortnite API and shows the upcoming cosmetics coming to the game.
+1. [Fortnite API new Cosmetics App](https://github.com/rudicarrilloypr/fortnite-api): web app that recieve updated data from the official Fortnite API and shows the upcoming cosmetics coming to the game.
 [Live Demo](https://fortnite-api-new.netlify.app/)
 
 2. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List project built using webpack, JavaScript, HTML, and CSS.
