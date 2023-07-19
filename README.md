@@ -19,6 +19,12 @@ Based in Xalapa, Mexico.
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
+## 👁️‍🗨️ Top Languages
+
+<p align="center">
+  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudicarrilloypr&hide_border=true&title_color=FE428E&text_color=FFFFFF&bg_color=282828">
+</p>
+
 ## 📌 Pinned Repositories
 
 1. [Fortnite API new Cosmetics App](https://github.com/rudicarrilloypr/fortnite-api): web app that recieve updated data from the official Fortnite API and shows the upcoming cosmetics coming to the game.
@@ -37,15 +43,6 @@ Based in Xalapa, Mexico.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rudicarrilloypr&show_icons=true&theme=radical)
 
-## 👁️‍🗨️ Top Languages
-
-<p align="center">
-  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudicarrilloypr&hide_border=true&title_color=FE428E&text_color=FFFFFF&bg_color=282828">
-</p>
-
-<p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rudicarrilloypr&color=blue&style=for-the-badge&label=PROFILE+VIEWS">  
-</p>
 
 ## 🗓️ Tech Stack Goals
 
@@ -77,3 +74,10 @@ Based in Xalapa, Mexico.
 🔻 [Rudi Carrillo Socials & Links](https://lnk.bio/rudicarrillo_softdev).
 
 🔻 [Gmail](mailto:rudicarrilloypr@gmail.com)
+
+
+##
+
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rudicarrilloypr&color=blue&style=for-the-badge&label=PROFILE+VIEWS">  
+</p>
