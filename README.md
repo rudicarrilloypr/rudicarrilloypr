@@ -37,6 +37,16 @@ Based in Xalapa, Mexico.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rudicarrilloypr&show_icons=true&theme=radical)
 
+## 👁️‍🗨️ Top Languages
+
+<p align="center">
+  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudicarrilloypr&hide_border=true&title_color=FE428E&text_color=FFFFFF&bg_color=282828">
+</p>
+
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rudicarrilloypr&color=blue&style=for-the-badge&label=PROFILE+VIEWS">  
+</p>
+
 ## 🗓️ Tech Stack Goals
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
