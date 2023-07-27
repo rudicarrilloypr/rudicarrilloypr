@@ -8,9 +8,12 @@ My enthusiasm as a software developer lies in creating streamlined solutions for
 
 Based in Xalapa, Mexico. 
 
-<a href="https://bmc.link/rudicarrillo" target="_blank">
-  <img src="./assets/black-button-small.png" alt="Buy me a coffee" style="display: block; margin: 20px auto; width: 120px; justify-content:center;">
-</a>
+<div style="display: flex; justify-content: center;">
+    <a href="https://www.buymeacoffee.com/rudicarrillo">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rudicarrillo&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" />
+    </a>
+</div>
+
     
 ## 🔧 Technologies & Tools
 
