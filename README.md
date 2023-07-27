@@ -8,7 +8,7 @@ My enthusiasm as a software developer lies in creating streamlined solutions for
 
 Based in Xalapa, Mexico. 
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
     <a href="https://www.buymeacoffee.com/rudicarrillo">
         <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rudicarrillo&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" />
     </a>
