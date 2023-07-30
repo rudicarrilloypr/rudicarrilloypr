@@ -33,7 +33,7 @@ Based in Xalapa, Mexico.
 1. [Fortnite API new Cosmetics App](https://github.com/rudicarrilloypr/fortnite-api): web app that recieve updated data from the official Fortnite API and shows the upcoming cosmetics coming to the game.
 [Live Demo](https://fortnite-api-new.netlify.app/)
 
-2. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List app built using webpack, JavaScript, HTML, and CSS.
+2. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List app. built using webpack, JavaScript, HTML, and CSS.
 [Live Demo](https://rudicarrilloypr.github.io/todo-list/dist/)
 3. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): project to test the learned skills into a conference page first module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour.
 [Live Demo](https://rudicarrilloypr.github.io/capstone-module-1/main.html)
