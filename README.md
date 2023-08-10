@@ -32,7 +32,7 @@ Based in Xalapa, Mexico.
 
 1. [Fortnite API new Cosmetics](https://github.com/rudicarrilloypr/fortnite-api): web application that recieves updated data from the official Fortnite API and shows the upcoming cosmetics coming to the game.
 [Live Demo](https://fortnite-api-new.netlify.app/)
-2. [Air Purity: MÉXICO](https://github.com/rudicarrilloypr/my-air-quality-app): mobile web application to check aprovides Mexico's current air pollution data and beautiful pictures of iconic Mexico places, coming from AirWeather and Unsplash API.
+2. [Air Purity: MÉXICO](https://github.com/rudicarrilloypr/my-air-quality-app): mobile web application to check and provide Mexico's current air pollution quality and beautiful pictures of iconic Mexico places, coming from OpenWeather and Unsplash API.
 [Live Demo](https://airpurity-mx.netlify.app/)
 3. [Math Magicians](https://github.com/rudicarrilloypr/math-magicians): website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations and get motivational quotes.
 [Live Demo](https://magos-matematicos.netlify.app/) 
