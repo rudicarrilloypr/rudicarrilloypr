@@ -21,6 +21,7 @@ Based in Xalapa, Mexico.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
 
 ## 👁️‍🗨️ Top Languages
 
@@ -53,7 +54,6 @@ Based in Xalapa, Mexico.
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
