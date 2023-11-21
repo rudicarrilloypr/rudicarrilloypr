@@ -32,19 +32,19 @@ Based in Xalapa, Mexico.
 ## 📌 Pinned Repositories
 
 1. [Fortnite API new Cosmetics](https://github.com/rudicarrilloypr/fortnite-api): web application that recieves updated data from the official Fortnite API and shows the upcoming cosmetics coming to the game.
-- **Built With:** JavaScript, Node.js, Fortnite API, HTML, CSS.
+- **Built With:** JavaScript, Node.js, HTML, CSS, Fortnite API.
 - [Live Demo](https://fortnite-api-new.netlify.app/)
 2. [Air Purity: MÉXICO](https://github.com/rudicarrilloypr/my-air-quality-app): mobile web application to check and provide Mexico's current air pollution quality and beautiful pictures of iconic Mexico places, coming from OpenWeather and Unsplash API.
-- **Built With:** React, Webpack, JavaScript, Node.js, Unsplash API, OpenWeather API, HTML, CSS.
+- **Built With:** React, Webpack, JavaScript, HTML, CSS, Node.js, Unsplash API, OpenWeather API.
 - [Live Demo](https://airpurity-mx.netlify.app/)
 3. [Actions App](https://github.com/rudicarrilloypr/actions-app): mobile web application where you can manage your budget; you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 - **Built With:** ROR, Javascript, CSS, Bootstrap, Node.js.
 - [Live Demo](https://actions-app.onrender.com/)
 4. [Math Magicians](https://github.com/rudicarrilloypr/math-magicians): website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations and get motivational quotes.
-- **Built With:** React, JavaScript, Webpack, Node.js, HTML, CSS.
+- **Built With:** React, JavaScript, Webpack, HTML, CSS, Node.js.
 - [Live Demo](https://magos-matematicos.netlify.app/) 
 5. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List app. SPA that allows you to add, edit, and delete tasks. It also allows you to mark tasks as done.
-- **Built With:** Webpack, JavaScript, HTML, and CSS.
+- **Built With:** Webpack, JavaScript, HTML, CSS.
 - [Live Demo](https://rudicarrilloypr.github.io/todo-list/dist/)
 6. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): Capstone project to test the learned skills into a conference page, module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour.
 - **Built With:** HTML, CSS, JavaScript.
