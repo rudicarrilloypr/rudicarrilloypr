@@ -31,7 +31,7 @@ Based in Xalapa, Mexico.
 
 ## 📌 Pinned Repositories
 
-1. [Fortnite API new Cosmetics](https://github.com/rudicarrilloypr/fortnite-api): web application that recieves updated data from the official Fortnite API and shows the upcoming cosmetics coming to the game. [Live Demo](https://fortnite-api-new.netlify.app/)
+1. [Fortnite new Cosmetics](https://github.com/rudicarrilloypr/fortnite-api): web application that receives updated data from the official Fortnite API and shows the upcoming cosmetics into the game. [Live Demo](https://fortnite-api-new.netlify.app/)
 - **Built With:** JavaScript, Webpack, HTML, CSS, Node.js, Fortnite API.
 2. [Air Purity: MÉXICO](https://github.com/rudicarrilloypr/my-air-quality-app): mobile web application to check and provide Mexico's current air pollution quality and beautiful pictures of iconic Mexico places, coming from OpenWeather and Unsplash API. [Live Demo](https://airpurity-mx.netlify.app/)
 - **Built With:** React, Webpack, JavaScript, HTML, CSS, Node.js, Unsplash API, OpenWeather API.
