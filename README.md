@@ -37,7 +37,7 @@ Based in Xalapa, Mexico.
 - **Built With:** React, Webpack, JavaScript, HTML, CSS, Node.js, Unsplash API, OpenWeather API.
 3. [Actions App](https://github.com/rudicarrilloypr/actions-app): mobile web application where you can manage your budget; you have a list of transactions associated with a category, so that you can see how much money you spent and on what.[Live Demo](https://actions-app.onrender.com/)
 - **Built With:** ROR, Javascript, CSS, Bootstrap, Node.js.
-4. [Math Magicians](https://github.com/rudicarrilloypr/math-magicians): website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations and get motivational quotes.[Live Demo](https://magos-matematicos.netlify.app/) 
+4. [Math Magicians](https://github.com/rudicarrilloypr/math-magicians): website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations and get motivational quotes. [Live Demo](https://magos-matematicos.netlify.app/) 
 - **Built With:** React, JavaScript, Webpack, HTML, CSS, Node.js.
 5. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List app. SPA that allows you to add, edit, and delete tasks. It also allows you to mark tasks as done. [Live Demo](https://rudicarrilloypr.github.io/todo-list/dist/)
 - **Built With:** Webpack, JavaScript, HTML, CSS.
