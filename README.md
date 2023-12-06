@@ -43,7 +43,7 @@ Based in Xalapa, Mexico.
 - **Built With:** Webpack, JavaScript, HTML, CSS.
 6. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): Capstone project to test the learned skills into a conference page, module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour. [Live Demo](https://rudicarrilloypr.github.io/capstone-module-1/main.html)
 - **Built With:** HTML, CSS, JavaScript.
-7. [Book a Concert](https://github.com/Diegogagan2587/Book-a-concert-front-end): prototype website where the user can reserve concert tickets and also create their own concert or live event; This project was created to test the learned skills for the final full-stack capstone project of the Microverse program. [Live Demo](https://book-a-concert.onrender.com/)
+7. [Book a Concert](https://github.com/Diegogagan2587/Book-a-concert-front-end): Prototype website where the goal is to help independent artists create their concerts or live events and people can reserve concert tickets with their own user; This project was created to test the learned skills for the final full-stack capstone project of the Microverse program. [Live Demo](https://book-a-concert.onrender.com/)
 - **Built With:** 
   - Front-end: React, Redux, JavaScript, HTML, CSS, Bootstrap, Node.js.
   - Back-end: Ruby on Rails, PostgreSQL, RSpec.
