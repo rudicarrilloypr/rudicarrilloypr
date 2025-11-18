@@ -9,8 +9,7 @@ My enthusiasm as a software developer lies in creating streamlined solutions for
 Based in Xalapa, Mexico. 
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/rudicarrillo">
-        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rudicarrillo&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" />
+<a href="https://www.buymeacoffee.com/rudicarrillo"><img src="https://img.buymeacoffee.com/button-api/?text=Support  with a Coffe&emoji=&slug=rudicarrillo&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
     </a>
 </div>
 
@@ -39,15 +38,15 @@ Based in Xalapa, Mexico.
   - Back-end: Ruby on Rails, PostgreSQL, RSpec.
  3. [Esterito Hostel](https://github.com/rudicarrilloypr/landingpage): Official site where clients or interested people can find more information about the hostel in Baja California [Live Demo](https://esteritohostel.com/)
 - **Built With:** Javascript, CSS, Bootstrap, Node.js.
-2. [Air Purity: MÉXICO](https://github.com/rudicarrilloypr/my-air-quality-app): mobile web application to check and provide Mexico's current air pollution quality and beautiful pictures of iconic Mexico places, coming from OpenWeather and Unsplash API. [Live Demo](https://airpurity-mx.netlify.app/)
+4. [Air Purity: MÉXICO](https://github.com/rudicarrilloypr/my-air-quality-app): mobile web application to check and provide Mexico's current air pollution quality and beautiful pictures of iconic Mexico places, coming from OpenWeather and Unsplash API. [Live Demo](https://airpurity-mx.netlify.app/)
 - **Built With:** React, Webpack, JavaScript, HTML, CSS, Node.js, Unsplash API, OpenWeather API.
-4. [Math Magicians](https://github.com/rudicarrilloypr/math-magicians): website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations and get motivational quotes. [Live Demo](https://magos-matematicos.netlify.app/) 
+5. [Math Magicians](https://github.com/rudicarrilloypr/math-magicians): website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations and get motivational quotes. [Live Demo](https://magos-matematicos.netlify.app/) 
 - **Built With:** React, JavaScript, Webpack, HTML, CSS, Node.js.
-5. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List app. SPA that allows you to add, edit, and delete tasks. It also allows you to mark tasks as done. [Live Demo](https://rudicarrilloypr.github.io/todo-list/dist/)
+6. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List app. SPA that allows you to add, edit, and delete tasks. It also allows you to mark tasks as done. [Live Demo](https://rudicarrilloypr.github.io/todo-list/dist/)
 - **Built With:** Webpack, JavaScript, HTML, CSS.
-6. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): Capstone project to test the learned skills into a conference page, module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour. [Live Demo](https://rudicarrilloypr.github.io/capstone-module-1/main.html)
+7. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): Capstone project to test the learned skills into a conference page, module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour. [Live Demo](https://rudicarrilloypr.github.io/capstone-module-1/main.html)
 - **Built With:** HTML, CSS, JavaScript.
-7. [Barradas.mx](https://github.com/rudicarrilloypr/barradas-dashboard): website that allows customers to browse product catalogs, view specifications, request quotes, and make selected online purchases. [Live Demo](https://www.barradas.mx/)
+8. [Barradas.mx](https://github.com/rudicarrilloypr/barradas-dashboard): website that allows customers to browse product catalogs, view specifications, request quotes, and make selected online purchases. [Live Demo](https://www.barradas.mx/)
 - **Built With:** 
   - Front-end: Wordpress, JavaScript, HTML, CSS, Bootstrap, Node.js.
 
