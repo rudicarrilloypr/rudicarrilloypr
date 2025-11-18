@@ -33,20 +33,23 @@ Based in Xalapa, Mexico.
 
 1. [Fortnite new Cosmetics](https://github.com/rudicarrilloypr/fortnite-api): web application that receives updated data from the official Fortnite API and shows the upcoming cosmetics into the game. [Live Demo](https://fortnite-api-new.netlify.app/)
 - **Built With:** JavaScript, Webpack, HTML, CSS, Node.js, Fortnite API.
+2. [Book a Concert](https://github.com/Diegogagan2587/Book-a-concert-front-end): Prototype website where the goal is to help independent artists create their concerts or live events and people can reserve concert tickets with their own user; This project was created to test the learned skills for the final full-stack capstone project of the Microverse program. [Live Demo](https://book-a-concert.onrender.com/)
+- **Built With:** 
+  - Front-end: React, Redux, JavaScript, HTML, CSS, Bootstrap, Node.js.
+  - Back-end: Ruby on Rails, PostgreSQL, RSpec.
+ 3. [Esterito Hostel](https://github.com/rudicarrilloypr/landingpage): Official site where clients or interested people can find more information about the hostel in Baja California [Live Demo](https://esteritohostel.com/)
+- **Built With:** Javascript, CSS, Bootstrap, Node.js.
 2. [Air Purity: MÉXICO](https://github.com/rudicarrilloypr/my-air-quality-app): mobile web application to check and provide Mexico's current air pollution quality and beautiful pictures of iconic Mexico places, coming from OpenWeather and Unsplash API. [Live Demo](https://airpurity-mx.netlify.app/)
 - **Built With:** React, Webpack, JavaScript, HTML, CSS, Node.js, Unsplash API, OpenWeather API.
-3. [Actions App](https://github.com/rudicarrilloypr/actions-app): mobile web application where you can manage your budget; you have a list of transactions associated with a category, so that you can see how much money you spent and on what. [Live Demo](https://actions-app.onrender.com/)
-- **Built With:** ROR, Javascript, CSS, Bootstrap, Node.js.
 4. [Math Magicians](https://github.com/rudicarrilloypr/math-magicians): website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations and get motivational quotes. [Live Demo](https://magos-matematicos.netlify.app/) 
 - **Built With:** React, JavaScript, Webpack, HTML, CSS, Node.js.
 5. [To Do List](https://github.com/rudicarrilloypr/todo-list): a basic To-Do List app. SPA that allows you to add, edit, and delete tasks. It also allows you to mark tasks as done. [Live Demo](https://rudicarrilloypr.github.io/todo-list/dist/)
 - **Built With:** Webpack, JavaScript, HTML, CSS.
 6. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): Capstone project to test the learned skills into a conference page, module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour. [Live Demo](https://rudicarrilloypr.github.io/capstone-module-1/main.html)
 - **Built With:** HTML, CSS, JavaScript.
-7. [Book a Concert](https://github.com/Diegogagan2587/Book-a-concert-front-end): Prototype website where the goal is to help independent artists create their concerts or live events and people can reserve concert tickets with their own user; This project was created to test the learned skills for the final full-stack capstone project of the Microverse program. [Live Demo](https://book-a-concert.onrender.com/)
+7. [Barradas.mx](https://github.com/rudicarrilloypr/barradas-dashboard): website that allows customers to browse product catalogs, view specifications, request quotes, and make selected online purchases. [Live Demo](https://www.barradas.mx/)
 - **Built With:** 
-  - Front-end: React, Redux, JavaScript, HTML, CSS, Bootstrap, Node.js.
-  - Back-end: Ruby on Rails, PostgreSQL, RSpec.
+  - Front-end: Wordpress, JavaScript, HTML, CSS, Bootstrap, Node.js.
 
 ## 📈 GitHub Stats
 
