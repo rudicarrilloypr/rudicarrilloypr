@@ -8,10 +8,10 @@ My enthusiasm as a software developer lies in creating streamlined solutions for
 
 Based in Xalapa, Mexico. 
 
-<!--<p align="center">
+<p align="center">
 <a href="https://www.buymeacoffee.com/rudicarrillo"><img src="https://img.buymeacoffee.com/button-api/?text=Support  with a Coffe&emoji=&slug=rudicarrillo&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
     </a>
-</div> --->
+</div>
 
     
 ## 🔧 Technologies & Tools
