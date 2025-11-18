@@ -36,7 +36,7 @@ Based in Xalapa, Mexico.
 - **Built With:** 
   - Front-end: React, Redux, JavaScript, HTML, CSS, Bootstrap, Node.js.
   - Back-end: Ruby on Rails, PostgreSQL, RSpec.
- 3. [Esterito Hostel](https://github.com/rudicarrilloypr/landingpage): Official site where clients or interested people can find more information about the hostel in Baja California [Live Demo](https://esteritohostel.com/)
+ 3. [Esterito Hostel](https://github.com/rudicarrilloypr/landingpage): Official site where clients or interested people can find more information about the hostel in Baja California [Live](https://esteritohostel.com/)
 - **Built With:** Javascript, CSS, Bootstrap, Node.js.
 4. [Air Purity: MÉXICO](https://github.com/rudicarrilloypr/my-air-quality-app): mobile web application to check and provide Mexico's current air pollution quality and beautiful pictures of iconic Mexico places, coming from OpenWeather and Unsplash API. [Live Demo](https://airpurity-mx.netlify.app/)
 - **Built With:** React, Webpack, JavaScript, HTML, CSS, Node.js, Unsplash API, OpenWeather API.
@@ -46,7 +46,7 @@ Based in Xalapa, Mexico.
 - **Built With:** Webpack, JavaScript, HTML, CSS.
 7. [R&B Music World Tour](https://github.com/rudicarrilloypr/capstone-module-1): Capstone project to test the learned skills into a conference page, module based on HTML, CSS and basic JavaScript. This project is part of the Microverse curriculum. The project contains a full description of an R&B Music World Tour. [Live Demo](https://rudicarrilloypr.github.io/capstone-module-1/main.html)
 - **Built With:** HTML, CSS, JavaScript.
-8. [Barradas.mx](https://github.com/rudicarrilloypr/barradas-dashboard): website that allows customers to browse product catalogs, view specifications, request quotes, and make selected online purchases. [Live Demo](https://www.barradas.mx/)
+8. [Barradas.mx](https://github.com/rudicarrilloypr/barradas-dashboard): website that allows customers to browse product catalogs, view specifications, request quotes, and make selected online purchases. [Live](https://www.barradas.mx/)
 - **Built With:** 
   - Front-end: Wordpress, JavaScript, HTML, CSS, Bootstrap, Node.js.
 
