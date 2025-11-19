@@ -81,6 +81,8 @@ Based in Xalapa, Mexico.
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
 
 ## 📫 How to reach me:
+🔻 [Portfolio](https://rudicarrillo.com/)
+
 🔻 [Rudi Carrillo Socials & Links](https://lnk.bio/rudicarrillo_softdev).
 
 🔻 [Gmail](mailto:rudicarrilloypr@gmail.com)
